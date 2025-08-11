@@ -3,4 +3,6 @@ pandas
 matplotlib
 seaborn
 sqlalchemy
+
 psycopg2-binary
+mysql-connector-python
